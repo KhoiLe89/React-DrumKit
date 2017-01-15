@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DrumKit from './DrumKit.js';
+import Keys from './Keys.js';
 import './index.css';
 
 ReactDOM.render(
-  <DrumKit />,
+  <Keys />,
   document.getElementById('root')
 );
